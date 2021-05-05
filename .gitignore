@@ -1,6 +1,6 @@
 # Ignore all src directories except private and files with a dot
 /odoo/auto/addons/**
-!custom/auto/addons/.*
+!/odoo/auto/addons/.*
 /odoo/custom/src/*/
 !/odoo/custom/src/private/
 
