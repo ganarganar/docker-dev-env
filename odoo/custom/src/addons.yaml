@@ -1,0 +1,263 @@
+ganarganar-mailing:
+ - "*"
+
+ganarganar-pos:
+ - "*"
+
+ganarganar-theme-clarico-vega:
+ - "*"
+
+ganarganar-third-party-apps:
+ - "*"
+
+ingadhoc-aeroo_reports:
+ - "*"
+
+ingadhoc-account-financial-tools:
+ - "*"
+ 
+ingadhoc-account-payment:
+ - "*"
+ 
+ingadhoc-account-invoicing:
+ - "*"
+ 
+ingadhoc-argentina-reporting:
+ - "*"
+ 
+ingadhoc-argentina-sale:
+ - "*"
+ 
+ingadhoc-miscellaneous:
+ - "*"
+ 
+ingadhoc-multi-company:
+ - "*"
+ 
+ingadhoc-odoo-argentina:
+ - "*"
+ 
+ingadhoc-odoo-argentina-ce:
+ - "*"
+ 
+ingadhoc-partner:
+ - "*"
+ 
+ingadhoc-product:
+ - "*"
+ 
+ingadhoc-purchase:
+ - "*"
+ 
+ingadhoc-reporting-engine:
+ - "*"
+ 
+ingadhoc-sale:
+ - "*"
+ 
+ingadhoc-stock:
+ - "*"
+ 
+ingadhoc-website:
+ - "*"
+ 
+itpp-labs-misc-addons:
+ - "*"
+
+itpp-labs-pos-addons:
+ - hw_printer_network
+ - pos_cashbox
+ - pos_cashier_select
+ - pos_category_multi
+ - pos_debt_notebook_rewards
+ - pos_debt_notebook_sync
+ - pos_discount_total
+ - pos_invoice_pay
+ - pos_invoice_postponed
+ - pos_journal_pin
+ - pos_keyboard
+ - pos_logout
+ - pos_longpolling
+ - pos_menu
+ - pos_mobile_restaurant
+ - pos_multi_session
+ - pos_multi_session_sync
+ - pos_order_cancel
+ - pos_order_cancel_restaurant
+ - pos_order_merge
+ - pos_order_note
+ - pos_order_print_check
+ - pos_order_printer_product
+ - pos_orderline_absolute_discount
+ - pos_orders_history
+ - pos_orders_history_reprint
+ - pos_orders_history_return
+ - pos_partner_sync
+ - pos_pin
+ - pos_print_method
+ - pos_printer_network
+ - pos_product_available
+ - pos_product_available_negative
+ - pos_product_category_discount
+ - pos_product_lot
+ - pos_qr_payments
+ - pos_qr_scan
+ - pos_qr_show
+ - pos_restaurant_base
+ - product_lot
+
+oca-account-analytic:
+  - "*"
+
+oca-account-closing:
+  - "*"
+
+oca-account-financial-tools:
+  - "*"
+
+oca-account-financial-reporting:
+  - "*"
+
+oca-account-invoice-reporting:
+  - "*"
+
+oca-account-invoicing:
+  - "*"
+
+oca-bank-payment:
+  - "*"
+
+oca-brand:
+  - "*"
+
+oca-commission:
+  - "*"
+
+oca-connector:
+  - "*"
+
+oca-contract:
+  - "*"
+
+oca-crm:
+  - "*"
+
+oca-currency:
+  - "*"
+
+oca-event:
+  - "*"
+
+oca-e-commerce:
+  - "*"
+
+oca-fleet:
+  - "*"
+
+oca-geospatial:
+  - "*"
+
+oca-helpdesk:
+  - "*"
+
+oca-hr:
+  - "*"
+
+oca-hr-attendance:
+  - "*"
+
+oca-hr-expense:
+  - "*"
+
+oca-hr-holidays:
+  - "*"
+
+oca-maintenance:
+  - "*"
+
+oca-mis-builder:
+  - "*"
+
+oca-multi-company:
+  - "*"
+
+oca-partner-contact:
+  - "*"
+
+oca-product-attribute:
+  - "*"
+
+oca-product-pack:
+  - "*"
+
+oca-product-variant:
+  - "*"
+
+oca-project:
+  - "*"
+
+oca-project-reporting:
+  - "*"
+
+oca-purchase-workflow:
+  - "*"
+
+oca-queue:
+  - "*"
+
+oca-report-print-send:
+  - "*"
+
+oca-reporting-engine:
+  - "*"
+
+oca-rest-framework:
+  - "*"
+
+oca-rma:
+  - "*"
+
+oca-sale-reporting:
+  - "*"
+
+oca-sale-workflow:
+  - "*"
+
+oca-server-auth:
+  - "*"
+
+oca-server-backend:
+  - "*"
+
+oca-server-brand:
+  - "*"
+
+oca-server-env:
+  - "*"
+
+oca-server-tools:
+  - "*"
+
+oca-server-ux:
+  - "*"
+
+oca-social:
+  - "*"
+
+oca-stock-logistics-warehouse:
+  - "*"
+
+oca-stock-logistics-workflow:
+  - "*"
+
+oca-timesheet:
+  - "*"
+
+oca-web:
+  - "*"
+
+oca-website:
+  - "*"
+
+oca-wms:
+  - "*"
