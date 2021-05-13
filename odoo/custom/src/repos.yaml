@@ -28,6 +28,16 @@ ganarganar-pos:
   merges:
       - default $ODOO_VERSION
 
+ganarganar-saas-odoo:
+  defaults:
+      depth: $DEPTH_DEFAULT
+  remotes:
+      default: https://github.com/ganarganar/saas-odoo.git
+  target:
+      default $ODOO_VERSION
+  merges:
+      - default $ODOO_VERSION
+
 ganarganar-theme-clarico-vega:
   defaults:
       depth: $DEPTH_DEFAULT

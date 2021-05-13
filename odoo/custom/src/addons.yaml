@@ -4,6 +4,9 @@ ganarganar-mailing:
 ganarganar-pos:
  - "*"
 
+ganarganar-saas-odoo:
+ - "*"
+
 ganarganar-theme-clarico-vega:
  - "*"
 
