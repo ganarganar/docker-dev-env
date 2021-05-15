@@ -42,10 +42,6 @@ services:
       WDB_WEB_PORT: "13984"
       # To avoid installing demo data export DOODBA_WITHOUT_DEMO=all
       WITHOUT_DEMO: "${DOODBA_WITHOUT_DEMO-false}"
-      # AWS S3 Bucket filestore testing
-      AWS_ACCESS_KEY_ID: "AKIAXCIP264ZZ2JAG2CX"
-      AWS_SECRET_ACCESS_KEY: "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"
-      AWS_BUCKETNAME: "odoo-testing"
     volumes:
       - ./odoo/custom:/opt/odoo/custom:ro,z
       - ./odoo/auto:/opt/odoo/auto:rw,z
