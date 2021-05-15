@@ -53,6 +53,7 @@ services:
       - db
       - smtp
       - wdb
+      - aeroo-docs
     command:
       - odoo
       - --limit-memory-soft=0
@@ -94,6 +95,12 @@ services:
       - "127.0.0.1:13984:1984"
     # HACK https://github.com/Kozea/wdb/issues/136
     init: true
+
+  aeroo-docs:
+    image: ganarganar/aeroo-docs
+    networks: *public
+    ports:
+      - "127.0.0.1:8989:8989"
 
   # Whitelist outgoing traffic for tests, reports, etc.
   # proxy_cdnjs_cloudflare_com:
