@@ -21,3 +21,6 @@
 
 # Project-specific docker configurations
 /.docker/
+
+# Ignore .env to avoid exposing sensitive credentials
+.env
